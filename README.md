@@ -13,7 +13,7 @@
 **💬 Find me online**
 ---
 + Email: [Email](shimaaragab297@gmail.com) 
-+ LinkedIn: [Shimaa Ragab](linkedin.com/in/shimaa-ragab-a57596190)
++ LinkedIn: [Shimaa Ragab](www.linkedin.com/in/shimaa-ragab-a57596190)
 + WhatsApp: [Message Me](https://wa.me/1284183181)
  
 **💡 Interests**
