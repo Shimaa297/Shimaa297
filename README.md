@@ -19,4 +19,6 @@
 + UI/UX Design in Flutter
 + Mason Bricks for faster Flutter development
 + Material 3 Design
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimaa297&show_icons=true&theme=radical)
+
 
