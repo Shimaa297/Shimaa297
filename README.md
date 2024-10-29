@@ -1,5 +1,5 @@
 **👋 Hi**
-> I'm Shimaa Ragab, a Mid-Level Mobile Developer at Spiritude LTD with extensive experience in mobile development. Specializing in Flutter development with **+3** years of experience.
+> I'm Shimaa Ragab, a Mid-Level Mobile Developer at Spiritude LTD with extensive experience in mobile development. Specializing in Flutter development with **3+** years of experience.
 
 **🛠️ Technologies & Tools**
 ---
